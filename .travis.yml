@@ -6,7 +6,7 @@ virtualenv:
     system_site_packages: true
 
 before_install:
-    - pip install ablog
+    - pip install -U ablog
 
 script:
     - ablog build
