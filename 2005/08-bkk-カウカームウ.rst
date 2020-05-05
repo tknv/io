@@ -2,7 +2,7 @@
    :tags: Bangkok
    :author: w.tknv
    :language: jp
-   :location: ヤワラート
+   :location: Yaowarat
 
 ガテン系がっつり派ごはん
 =================================

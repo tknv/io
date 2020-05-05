@@ -2,7 +2,7 @@
    :tags: Bangkok
    :author: w.tknv
    :language: en
-   :location: Ban Khea
+   :location: Ban Khae
 
 I got entangled with english AD.
 =================================
