@@ -19,8 +19,7 @@ And also better add meanings to remember why assign this IPv6 address.
 I usually am using **beef** and **cafe** to type easy. Alas poor vocabulary.
 
 Here is usable word list for IPv6 address with meaning(maybe, I did not check it all).
-
-.. code-block:: 
+:: 
 
     Abba
     Adad
