@@ -8,6 +8,7 @@ IPv6 address name
 =====================================
 
 .. image:: cover-IPv6-address-name.jpg
+
 Assign IPv6 network address is bit faff.
 
 It’s so faff to think about address

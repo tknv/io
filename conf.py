@@ -344,6 +344,6 @@ html_static_path = ['_static']
 htmlhelp_basename = 'CannottodayisMondaydoc'
 
 # for deploy
-github_pages = 'tknv.github.io'
+github_pages = 'tknv'
 
 
