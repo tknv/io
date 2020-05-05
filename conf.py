@@ -343,4 +343,7 @@ html_static_path = ['_static']
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'CannottodayisMondaydoc'
 
+# for deploy
+github_pages = 'tknv.github.io'
+
 
