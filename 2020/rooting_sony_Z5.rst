@@ -88,3 +88,11 @@ MANIFEST.MFをソフトバンクのZ5に合わせる
    noerase: APPS_LOG,DIAG,SSD,PERSIST,USERDATA,CUST-RESET,MASTER-RESET,RE
    SET-WIPE-REASON,SIMLOCK
    revision: R1E
+
+ブートローダーのアンロック
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+これをしないとルート権限奪取の為のイメージが焼けない．
+
+`Sony Developer Site <https://developer.sony.com/develop/open-devices/get-started/unlock-bootloader/#unlock-code>`_ https://developer.sony.com/develop/open-devices/get-started/unlock-bootloader/#unlock-code
+から無料でアンロックコードを入手してブートローダーのアンロック．保証対象外になる模様．すでに古くて保証は切れていると思われる．
