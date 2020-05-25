@@ -1,0 +1,5 @@
+__pycache__/
+_website
+.doctrees/
+.vscode/
+_build/
